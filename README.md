@@ -1,4 +1,4 @@
-# # 💖 Sign of Affection – A Beautiful Love Story in Code  
+## 💖 Sign of Affection – A Beautiful Love Story in Code  
 
 This project is a **passion-driven webpage** dedicated to the **heartwarming manga "A Sign of Affection" (Yubisaki to Renren)**. Built while practicing **HTML, CSS, and JavaScript**, it features an elegant design, interactive elements, and a personal review!  
 
